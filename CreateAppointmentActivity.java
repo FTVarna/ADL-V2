@@ -1,7 +1,4 @@
-package uk.ac.westminster.ecwm511.cw2;
-
 import java.util.Calendar;
-import com.example.coursework2.R;
 import android.app.Activity;
 import android.os.Bundle;
 import android.view.View;
