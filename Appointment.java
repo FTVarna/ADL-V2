@@ -1,5 +1,3 @@
-package uk.ac.westminster.ecwm511.cw2;
-
 /**
  * Holds details of the Appointment
  * */
