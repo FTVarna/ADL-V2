@@ -1,6 +1,3 @@
-package uk.ac.westminster.ecwm511.cw2;
-
-import com.example.coursework2.R;
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
