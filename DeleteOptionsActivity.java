@@ -1,7 +1,3 @@
-package uk.ac.westminster.ecwm511.cw2;
-
-import com.example.coursework2.R;
-
 import android.app.Activity;
 import android.app.AlertDialog;
 import android.content.DialogInterface;
