@@ -1,5 +1,3 @@
-package uk.ac.westminster.ecwm511.cw2;
-
 import java.sql.Date;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
